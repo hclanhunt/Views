@@ -1,0 +1,2 @@
+# Views
+Clash of clan
